@@ -19,24 +19,24 @@ An Helper Bot For BDReborn Based On BDMessenger
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/BeyondTeam/BDHelper.git
-cd BDHelper
-chmod +x beyond.sh
-./beyond.sh install
-./beyond.sh 
+git clone https://github.com/saadmzed/k-helper.git
+cd k-helper
+chmod +x k-nam.sh
+./k-nam.sh install
+./k-nam.sh 
 
 
 # For Auto Launch:
-cd BDHelper
-chmod 777 autobd.sh
+cd k-helper
+chmod 777 auto-k.sh
 tmux
-./autobd.sh
+./auto-k.sh
 # End ;)
 ```
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/BeyondTeam/BDHelper.git && cd BDHelper && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh
+cd $HOME && git clone https://github.com/saadmzed/k-helper.git && cd k-helper && chmod +x k-nam.sh && ./k-nam.sh install && ./k-nam.sh
 ```
 
 # Support and Development
