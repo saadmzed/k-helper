@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd $HOME/BDHelper
+cd $HOME/k-helper
 
 install() {
 		sudo apt-get update
